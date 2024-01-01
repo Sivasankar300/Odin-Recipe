@@ -1,0 +1,18 @@
+h1 {
+    font:"Times New Roman", Georgia;
+    font-weight: bold;
+    text-align: center;
+    font-size: 32px;
+    background-color: yellow;
+}
+
+li,ul {
+    text-align: center;
+    font:Tahoma,Verdana,Arial;
+    font-weight: lighter;
+    font-size:18px;
+    background-color: green;
+}
+* {
+    text-align: center;
+}
